@@ -8,7 +8,7 @@
 - **GitHub Foundations Certificate**  
   [View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/saeidmirzaei/838651969281C5C3?sharingId)
 
-  - **System-Mischer Certified: Feedback Literacy**  
+- **System-Mischer Certified: Feedback Literacy**  
   [Verify here](https://www.linkedin.com/in/saeid-mirzaei/details/certifications/)
 
 <!--
